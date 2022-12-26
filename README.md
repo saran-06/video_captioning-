@@ -1,5 +1,4 @@
 VIDEO-CAPTIONING:
-      
       In today’s world, video captioning is highly used in various applications for hearing
 impaired and, more specifically, specially abled persons. We are using the whisper library.
 Whisper is an automation speech recognition. Whisper can transcribe large audio files with
